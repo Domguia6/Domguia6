@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domguia6" alt="domguia6" /></a> </p>
 
-- 🔭 I'm currently working on [Building customs docker images for my students](https://hub.docker.com/repositories/yakengne)
+- 🔭 I'm currently [learning bootstrap](https://github.com/Domguia6/apprentissage-bootstrap-))
 
-- 📝 I regularly write articles on [https://domguia6.github.io/openNMS/](https://domguia6.github.io/openNMS/)
+- 💬 Ask me about **Full stack and Infrographics**
 
-- 💬 Ask me about **Cloud Native Applications and Project Management**
-
-- Started to write articles on [Medium](https://medium.com/@fkengne.mcdns)
-
-- ⚡ Fun fact **I am really open minded**
+- ⚡ Fun fact **I am a singer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
