@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domguia6" alt="domguia6" /></a> </p>
 
-- 🔭 I'm currently [learning bootstrap](https://github.com/Domguia6/apprentissage-bootstrap-))
+- 🔭 I'm currently [learning bootstrap](https://github.com/Domguia6/apprentissage-bootstrap-)
 
 - 💬 Ask me about **Full stack and Infrographics**
 
