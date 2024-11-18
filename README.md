@@ -1,3 +1,4 @@
+<img src="https://fr.freepik.com/photos-premium/jeu-test-joueur-peau-foncee-utilisant-ordinateur-portable-nuit-au-bureau-domicile-joueuse-professionnelle-verifiant-jeux-video-numeriques-son-ordinateur-reseau-technologie-moderne-sans-fil_16793130.htm#fromView=search&page=1&position=18&uuid=1f46bcbd-9fd0-4ac9-82f7-b5ceac1f7615" alt="Grace Domguia" width="200px" height="100%">
 <h1 align="center">Hi 👋, I'm Grace Domguia</h1>
 <h3 align="center">A passionate Full Stack Developer Fom Cameroon.</h3>
 
