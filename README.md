@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full stack and Infrographics**
   
-- 📫 How to reach me (gracemedom@icloud.com)
+- 📫 How to reach me gracemedom@icloud.com
 
 - ⚡ Fun fact **I am a singer!**
 
