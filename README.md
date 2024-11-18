@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grace Domguia</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
+<h3 align="center">A passionate Full Stack Developer Fom Cameroon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domguia6&label=Profile%20views&color=0e75b6&style=flat" alt="domguia6" /> </p>
 
@@ -8,6 +8,8 @@
 - 🔭 I'm currently [learning bootstrap](https://github.com/Domguia6/apprentissage-bootstrap-)
 
 - 💬 Ask me about **Full stack and Infrographics**
+  
+- 📫 How to reach me (gracemedom@icloud.com)
 
 - ⚡ Fun fact **I am a singer!**
 
