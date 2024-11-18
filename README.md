@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/grace-medom-2165622a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grace_domguia" height="30" width="40" /></a>
   <a href="https://facebook.com/in/Grace Domguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Grace Domguia" height="30" width="40" /></a>
-  <a href="https://instagram.com/in/grace_domguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grace_domguia" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/grace_domguia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grace_domguia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
