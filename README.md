@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/user-attachments/assets/c877f84b-dfad-4289-965b-a45987aba890)" width="200px" height="100%">
+<img src="https://img.freepik.com/photos-premium/jeu-test-joueur-peau-foncee-utilisant-ordinateur-portable-nuit-au-bureau-domicile-joueuse-professionnelle-verifiant-jeux-video-numeriques-son-ordinateur-reseau-technologie-moderne-sans-fil_482257-9250.jpg?w=900" width="200px" height="100%">
 <h1 align="center">Hi 👋, I'm Grace Domguia</h1>
 <h3 align="center">A passionate Full Stack Developer Fom Cameroon.</h3>
 
