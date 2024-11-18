@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domguia6" alt="domguia6" /></a> </p>
 
-- 🔭 I'm currently [learning bootstrap](https://github.com/Domguia6/apprentissage-bootstrap-)         <img src="![image](https://github.com/user-attachments/assets/a7a40c3b-9d6f-42ff-be1e-188cfbb6d4b2)" width="400px" height="300px" align="right">
+- 🔭 I'm currently [learning bootstrap](https://github.com/Domguia6/apprentissage-bootstrap-)         <img src="https://img.freepik.com/vecteurs-libre/modele-mobile-developpement-applications_23-2148681251.jpg?t=st=1731963143~exp=1731966743~hmac=cca5465b29af2e3e5f3170eafc6f0d3115a6f3a7d93cd09d05af6606a95ed726&w=740" width="400px" height="300px" align="right">
 
 - 💬 Ask me about **Full stack and Infrographics**
   
